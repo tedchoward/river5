@@ -36,29 +36,11 @@
 
 		<outline text="Dallas Observer" htmlUrl="http://www.dallasobserver.com/index.rss" title="Dallas Observer" type="rss" xmlUrl="http://www.dallasobserver.com/index.rss"/>
 
-		<outline text="Dallas Morning News - Latest" htmlUrl="http://www.dallasnews.com/latest/" title="Dallas Morning News - Latest" type="rss" xmlUrl="http://www.dallasnews.com/latest/?rss"/>
+                <outline text="Dallas Morning News - Latest" htmlUrl="http://www.dallasnews.com/news/" title="Dallas Morning News - Latest" type="rss" xmlUrl="http://www.dallasnews.com/arcio/rss/category/news"/>
 
-		<outline text="Dallas Morning News - Opinion" htmlUrl="http://www.dallasnews.com/opinion/" title="Dallas Morning News - Opinion" type="rss" xmlUrl="http://www.dallasnews.com/opinion/?rss"/>
+                <outline text="Dallas Morning News - Opinion" htmlUrl="http://www.dallasnews.com/opinion/" title="Dallas Morning News - Opinion" type="rss" xmlUrl="http://www.dallasnews.com/arcio/rss/category/opinion"/>
 
-		<outline text="Opinion Blog" htmlUrl="" title="Opinion Blog" type="rss" xmlUrl="http://dallasmorningviewsblog.dallasnews.com/feed/"/>
-
-		<outline text="Dallas Morning News - Education" htmlUrl="http://www.dallasnews.com/news/education/" title="Dallas Morning News - Education" type="rss" xmlUrl="http://www.dallasnews.com/news/education/?rss"/>
-
-		<outline text="Education Blog" htmlUrl="" title="Education Blog" type="rss" xmlUrl="http://educationblog.dallasnews.com/feed/"/>
-
-		<outline text="City Hall Blog" htmlUrl="" title="City Hall Blog" type="rss" xmlUrl="http://cityhallblog.dallasnews.com/feed/"/>
-
-		<outline text="Untitled" htmlUrl="http://" title="Untitled" type="rss" xmlUrl="http://thescoopblog.dallasnews.com/feed"/>
-
-		<outline text="Dallas Morning News - Politics" htmlUrl="http://www.dallasnews.com/news/politics/" title="Dallas Morning News - Politics" type="rss" xmlUrl="http://www.dallasnews.com/news/politics/?rss"/>
-
-		<outline text="Dallas Morning News - Transportation" htmlUrl="http://www.dallasnews.com/news/transportation/" title="Dallas Morning News - Transportation" type="rss" xmlUrl="http://www.dallasnews.com/news/transportation/?rss"/>
-
-		<outline text="Transportation Blog" htmlUrl="" title="Transportation Blog" type="rss" xmlUrl="http://transportationblog.dallasnews.com/feed/"/>
-
-		<outline text="Investigates Blog" htmlUrl="" title="Investigates Blog" type="rss" xmlUrl="http://watchdogblog.dallasnews.com/feed/"/>
-
-		<outline text="Dallas Morning News - Business" htmlUrl="http://www.dallasnews.com/business/" title="Dallas Morning News - Business" type="rss" xmlUrl="http://www.dallasnews.com/business/?rss"/>
+                <outline text="Dallas Morning News - Business" htmlUrl="http://www.dallasnews.com/business/" title="Dallas Morning News - Business" type="rss" xmlUrl="http://www.dallasnews.com/arcio/rss/category/business"/>
 
 		<outline text="Street Smart" htmlUrl="" title="Street Smart" type="rss" xmlUrl="http://streetsmart.dmagazine.com/feed/"/>
 
@@ -68,7 +50,9 @@
 
 		<outline text="Lakewood Advocate" htmlUrl="http://" name="untitled" title="Untitled" type="rss" xmlUrl="http://lakewood.advocatemag.com/feed/"/>
 
-		<outline text="Central Track" htmlUrl="http://www.centraltrack.com" title="Central Track" type="rss" xmlUrl="http://centraltrack.com/rss"/>
+                <outline text="Central Track" htmlUrl="http://www.centraltrack.com" title="Central Track" type="rss" xmlUrl="http://centraltrack.com/rss"/>
+
+                <outline text="Sorry to Disturb You" title="Sorry to Disturb You" type="rss" xmlUrl="https://podcast.rss.com/brettshippmedia/feed.xml" />
 
 		</body>
 
