@@ -36,11 +36,11 @@
 
 		<outline text="Dallas Observer" htmlUrl="http://www.dallasobserver.com/index.rss" title="Dallas Observer" type="rss" xmlUrl="http://www.dallasobserver.com/index.rss"/>
 
-                <outline text="Dallas Morning News - Latest" htmlUrl="http://www.dallasnews.com/news/" title="Dallas Morning News - Latest" type="rss" xmlUrl="http://www.dallasnews.com/arcio/rss/category/news"/>
+                <outline text="Dallas Morning News - Latest" htmlUrl="http://www.dallasnews.com/news/" title="Dallas Morning News - Latest" type="rss" xmlUrl="https://www.dallasnews.com/news/rss/?outputType=rss"/>
 
-                <outline text="Dallas Morning News - Opinion" htmlUrl="http://www.dallasnews.com/opinion/" title="Dallas Morning News - Opinion" type="rss" xmlUrl="http://www.dallasnews.com/arcio/rss/category/opinion"/>
+                <outline text="Dallas Morning News - Opinion" htmlUrl="http://www.dallasnews.com/opinion/" title="Dallas Morning News - Opinion" type="rss" xmlUrl="https://www.dallasnews.com/opinion/rss/?outputType=rss"/>
 
-                <outline text="Dallas Morning News - Business" htmlUrl="http://www.dallasnews.com/business/" title="Dallas Morning News - Business" type="rss" xmlUrl="http://www.dallasnews.com/arcio/rss/category/business"/>
+                <outline text="Dallas Morning News - Business" htmlUrl="http://www.dallasnews.com/business/" title="Dallas Morning News - Business" type="rss" xmlUrl="https://www.dallasnews.com/business/rss/?outputType=rss"/>
 
 		<outline text="Street Smart" htmlUrl="" title="Street Smart" type="rss" xmlUrl="http://streetsmart.dmagazine.com/feed/"/>
 
